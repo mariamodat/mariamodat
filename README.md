@@ -1,4 +1,13 @@
 ### Hi there 👋
+## second heading 
+**unordered list** 
+* first 
+* second 
+**ordered list** 
+1. one 
+2. two 
+
+
 
 <!--
 **mariamodat/mariamodat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
