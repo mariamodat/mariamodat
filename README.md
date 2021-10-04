@@ -1,14 +1,8 @@
 * Hi there 👋
-## second heading 
-**unordered list** 
-* first 
-* second 
- ## the socond list is 
-**ordered list** 
-1. one 
-2. two 
-## my picture 
-![mariam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cOoGcL05lYiM5I7i5_7iXc9-BpBGFeeXDw&usqp=CAU)
+## Mariam AlOwdat
+Software Developer intrested in Java, mobile apps and web apps.
+
+![mariam](https://avatars.githubusercontent.com/u/79833820?v=4)
 
 
 
@@ -17,12 +11,8 @@
 
 *Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🌱 I’m currently learning Advanced JAVA
+-- 📫 How to reach me: mariamodat0@gmail.com
+- ⚡ Fun fact: I love make-up 
 -->
