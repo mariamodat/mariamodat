@@ -2,9 +2,6 @@
 ## Mariam AlOwdat
 Software Developer intrested in Java, mobile apps and web apps.
 
-![mariam](https://avatars.githubusercontent.com/u/79833820?v=4)
-
-
 
 <!--
 **mariamodat/mariamodat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
