@@ -1,5 +1,5 @@
 * Hi there 👋
-## Mariam AlOwdat
+## Maryam AlOwdat
 Software Developer intrested in Java, mobile apps and web apps.
 
 
